@@ -1,0 +1,2 @@
+CREATE USER chopper;
+ALTER USER chopper WITH SUPERUSER;
