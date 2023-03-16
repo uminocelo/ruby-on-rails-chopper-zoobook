@@ -1,0 +1,29 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  binominal_name: MyString
+  life_span_min: 1
+  life_span_max: 1
+  weight_min: 1
+  weight_max: 1
+  height_min: 1
+  height_max: 1
+  length_min: 1
+  length_max: 1
+  extinct: false
+  description: MyText
+
+two:
+  name: MyString
+  binominal_name: MyString
+  life_span_min: 1
+  life_span_max: 1
+  weight_min: 1
+  weight_max: 1
+  height_min: 1
+  height_max: 1
+  length_min: 1
+  length_max: 1
+  extinct: false
+  description: MyText
