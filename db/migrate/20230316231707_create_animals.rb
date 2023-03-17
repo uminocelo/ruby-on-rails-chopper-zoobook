@@ -1,6 +1,6 @@
-class CreateApiAnimals < ActiveRecord::Migration[7.0]
+class CreateAnimals < ActiveRecord::Migration[7.0]
   def change
-    create_table :api_animals do |t|
+    create_table :animals do |t|
       t.string :name
       t.string :binominal_name
       t.integer :life_span_min
